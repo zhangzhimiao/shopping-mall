@@ -1,4 +1,4 @@
-# shopmall
+# shoppingmall
 
 > A Vue.js project
 
